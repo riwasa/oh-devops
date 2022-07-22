@@ -11,7 +11,7 @@ products:
 description: "The DevOps open hack event is designed to foster learning via implementing DevOps practices with a series of challenges."
 urlFragment: openhack-devops-team
 ---
-V1.1.1
+V2.0.0
 # My Driving Team APIs
 
 The DevOps open hack event is designed to foster learning via implementing DevOps practices with a series of challenges.
